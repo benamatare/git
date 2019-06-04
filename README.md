@@ -1,14 +1,14 @@
 __Git Cheatsheet / Notes__
 __SOURCE > https://guides.github.com/introduction/git-handbook/__
 
-####- What's Version Control?
+#### H4- What's Version Control?
 A way of tracking changes on a project. Seeing what changes were made, who made those changes, when they were made and why the changes were needed.
 
-####- What's a distributed version control system?
+#### H4- What's a distributed version control system?
 Git is an example, it''s key feature is taht it allows full access to every file, branch and iteration of a project - and allows users to access a full, and self-contained history. Also they don't need a constant connection to a central repo!
 
 
-####Basic Git Commands
+#### H4Basic Git Commands
 __- git init__
 Initialize a brand new repo, and start tracking. Adds a hidden subfolder within the directory that houses the internal data strucutre required for version control
 
