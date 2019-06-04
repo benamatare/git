@@ -8,7 +8,7 @@ A way of tracking changes on a project. Seeing what changes were made, who made 
 Git is an example, it''s key feature is taht it allows full access to every file, branch and iteration of a project - and allows users to access a full, and self-contained history. Also they don't need a constant connection to a central repo!
 
 
-# H1Basic Git Commands
+# Basic Git Commands
 __- git init__
 
 Initialize a brand new repo, and start tracking. Adds a hidden subfolder within the directory that houses the internal data strucutre required for version control
