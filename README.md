@@ -1,5 +1,5 @@
-Notes on Good ole Git!
-SOURCE > https://guides.github.com/introduction/git-handbook/
+# H1 Notes on Good ole Git!
+# H2 SOURCE > https://guides.github.com/introduction/git-handbook/
 
 - What's Version Control?
 A way of tracking changes on a project. Seeing what changes were made, who made those changes, when they were made and why the changes were needed.
@@ -9,7 +9,7 @@ Git is an example, it''s key feature is taht it allows full access to every file
 
 
 - Basic Git Commands
-
+`
 - git init
 Initialize a brand new repo, and start tracking. Adds a hidden subfolder within the directory that houses the internal data strucutre required for version control
 
